@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Andre</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#servicos">Serviços</a></li>
+                <li><a href="#midia">Mídia</a></li>
+                <li><a href="#contatos">Contatos</a></li>
+            </ul>
+        </nav>
+        <section id="home" class="hero">
+            <div class="content">
+                <h1>Olá, eu sou André Luemba</h1>
+                <p>Desenvolvedor Web | Designer | Criador de Soluções</p>
+                <a href="#sobre" class="btn">Saiba Mais</a>
+            </div>
+            <div class="foto">
+                <img src="me.jpg" alt="Minha Foto">
+            </div>
+        </section>
+    </header>
+
+    <section id="sobre" class="sobre">
+        <h2>Sobre Mim</h2>
+        <div class="conteudo-sobre">
+            <div class="texto-sobre">
+                <p>
+                    Olá, meu nome é André Luemba. Sou um profissional apaixonado por tecnologia, desenvolvimento web e inovação. 
+                    Minha jornada no mundo digital começou há alguns anos e, desde então, venho criando soluções que conectam pessoas e ideias.
+                </p>
+                <p>
+                    Minhas habilidades incluem desenvolvimento front-end, design responsivo e UX/UI. 
+                    Adoro aprender coisas novas e me desafiar para sempre melhorar e oferecer o melhor em meus projetos.
+                </p>
+                <p>
+                    Meu objetivo é ajudar pessoas e empresas a transformar ideias em realidade por meio da tecnologia. Vamos trabalhar juntos?
+                </p>
+            </div>
+            <div class="foto-sobre">
+                <img src="me.jpg" alt="Minha Foto Sobre">
+            </div>
+        </div>
+    </section>
+
+    <section id="servicos" class="servicos">
+        <h2>Serviços</h2>
+        <div class="conteudo-servicos">
+            <div class="servico">
+                <h3>Desenvolvimento Web</h3>
+                <p>Criamos websites responsivos e otimizados para o seu negócio.</p>
+            </div>
+            <div class="servico">
+                <h3>Design Gráfico</h3>
+                <p>Design criativo para branding, logotipos e muito mais.</p>
+            </div>
+            <div class="servico">
+                <h3>Consultoria</h3>
+                <p>Orientação personalizada para suas necessidades tecnológicas.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="midia" class="midia">
+        <h2>Mídia</h2>
+        <div class="conteudo-midia">
+            <div class="midia-item">
+                <h3>Redes Sociais</h3>
+                <p>Siga-me nas redes sociais e fique por dentro dos meus projetos e atualizações.</p>
+                <ul class="social-links">
+                    <li><a href="https://www.linkedin.com/in/andr%C3%A9-s%C3%A1vio-903ba5312/" target="_blank">LinkedIn</a></li>
+                    <li><a href="https://github.com/Andreeluemba" target="_blank">GitHub</a></li>
+                    <li><a href="https://www.instagram.com/luembadas10/" target="_blank">Instagram</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section id="contatos" class="contatos">
+        <h2>Contatos</h2>
+        <div class="conteudo-contato">
+            <p>Entre em contato comigo para discutir novos projetos, colaborações ou qualquer dúvida que você tenha. Estou disponível para ajudar!</p>
+            <a href="mailto:andreluemba@email.com" class="btn">Enviar Email</a>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <p>&copy; 2025 André Luemba. Todos os direitos reservados.</p>
+    </footer>
+
+    <script>
+        // Seleciona todos os links de navegação
+        const navLinks = document.querySelectorAll('.navbar a');
+
+        // Adiciona o comportamento de scroll suave para cada link
+        navLinks.forEach(link => {
+            link.addEventListener('click', function(e) {
+                e.preventDefault();
+                const targetId = this.getAttribute('href').substring(1); // remove o '#' do href
+                const targetElement = document.getElementById(targetId);
+
+                // Rolagem suave
+                window.scrollTo({
+                    top: targetElement.offsetTop - 50, // Ajusta a posição considerando o topo fixo
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
+</body>
+</html>
+
