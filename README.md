@@ -1,7 +1,7 @@
 # 👨🏽‍💻 Sobre mim
 
 - Desenvolvedor apaixonado por tecnologia e programação.  
-- Foco em desenvolvimento de sistemas, redes e segurança.  
+- Foco em desenvolvimento de sistemas, Solucionador de problemas Back-End.  
 - Estudante do Instituto Politécnico Industrial de Luanda (IPIL).  
 - Interessa-me a criação de soluções práticas e escaláveis.  
 - Comprometido com constante evolução e aprendizagem.  
@@ -12,12 +12,11 @@
 
 | Tecnologia | Conhecimento |
 |------------|--------------|
-| C          | ![85%](https://img.shields.io/badge/-85%25-blue) |
-| C#         | ![80%](https://img.shields.io/badge/-80%25-blueviolet) |
+| C#         | ![65%](https://img.shields.io/badge/-65%25-blueviolet) |
 | JavaScript | ![70%](https://img.shields.io/badge/-70%25-yellow) |
 | HTML       | ![90%](https://img.shields.io/badge/-90%25-orange) |
-| CSS        | ![85%](https://img.shields.io/badge/-85%25-blue) |
-| Git & GitHub | ![80%](https://img.shields.io/badge/-80%25-lightgrey) |
+| CSS        | ![65%](https://img.shields.io/badge/-65%25-blue) |
+| Node.JS | ![48%](https://img.shields.io/badge/-48%25-lightgrey) |
 
 ---
 
@@ -46,9 +45,9 @@
 # 📬 Contato
 
 - 📧 **Email:** [andresavio701@gmail.com](mailto:andresavio701@gmail.com)  
-- 💼 **LinkedIn:** [Seu LinkedIn aqui](https://linkedin.com/in/seu-linkedin)  
-- 🐙 **GitHub:** [Andreeluemba](https://github.com/Andreeluemba)  
+- 💼 **GitHub:** [Andreeluemba]([https://github.com/Andreeluemba])  
+- 🐙 **Instagram:** [luemba.dev]((https://www.instagram.com/luemba.dev/))  
 
 ---
 
-> *“A persistência é o caminho do êxito.” – Charles Chaplin*
+> *“Grandes coisas vêm do trabalho duro e perseverança. Sem desculpas..” – Kobe Bryant*
