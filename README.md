@@ -35,10 +35,10 @@
 
 | Nome do Projeto | Descrição | Link |
 |-----------------|-----------|------|
-| **Loja**        | Biblioteca própria de projetos em C | [Ver no GitHub](https://github.com/Andreeluemba) |
-| **NadocDraw**   | Projeto de editoração de imagens em Linux | [Ver no GitHub](https://github.com/Andreeluemba) |
-| **alter_gradum_lista** | Lista de tarefas feita do zero | [Ver no GitHub](https://github.com/Andreeluemba) |
-| **db-email**    | Site de contato estilizado com PHP e Bootstrap | [Ver no GitHub](https://github.com/Andreeluemba) |
+| **Lista de Tarefas**        | Biblioteca própria de projetos em C | [Ver no GitHub](https://github.com/Andreeluemba/lista-de-tarefas) |
+| **Contador**   | Projeto de editoração de imagens em Linux | [Ver no GitHub](https://github.com/Andreeluemba/contador) |
+| **Task-Master** | Lista de tarefas feita do zero | [Ver no GitHub](https://github.com/Andreeluemba/taskmaster) |
+| **Mini-Portflolio**    | Site de contato estilizado com PHP e Bootstrap | [Ver no GitHub](https://github.com/Andreeluemba/Andreluemba) |
 
 ---
 
