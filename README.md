@@ -16,6 +16,7 @@
 | JavaScript | ![70%](https://img.shields.io/badge/-70%25-yellow) |
 | HTML       | ![90%](https://img.shields.io/badge/-90%25-orange) |
 | CSS        | ![65%](https://img.shields.io/badge/-65%25-blue) |
+| PHP        | ![80%](https://img.shields.io/badge/-80%25-blue) 
 | Node.JS | ![48%](https://img.shields.io/badge/-48%25-lightgrey) |
 
 ---
