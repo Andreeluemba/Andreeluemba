@@ -36,10 +36,10 @@
 
 | Nome do Projeto | Descrição | Link |
 |-----------------|-----------|------|
-| **Lista de Tarefas**        | Biblioteca própria de projetos em C | [Ver no GitHub](https://github.com/Andreeluemba/lista-de-tarefas) |
-| **Contador**   | Projeto de editoração de imagens em Linux | [Ver no GitHub](https://github.com/Andreeluemba/contador) |
-| **Task-Master** | Lista de tarefas feita do zero | [Ver no GitHub](https://github.com/Andreeluemba/taskmaster) |
-| **Mini-Portflolio**    | Site de contato estilizado com PHP e Bootstrap | [Ver no GitHub](https://github.com/Andreeluemba/Andreluemba) |
+| **Lista de Tarefas**        | Lista de tarefas báscica feita com React + TypeScript + Tailwindcss | [Ver no GitHub](https://github.com/Andreeluemba/lista-de-tarefas) |
+| **Contador**   | Contador feito com React + TypeScript +Tailwindcss | [Ver no GitHub](https://github.com/Andreeluemba/contador) |
+| **Task-Master** | Task Master completo | [Ver no GitHub](https://github.com/Andreeluemba/taskmaster) |
+| **Mini-Portflolio**    | Site básico de portoflolio | [Ver no GitHub](https://github.com/Andreeluemba/Andreluemba) |
 
 ---
 
