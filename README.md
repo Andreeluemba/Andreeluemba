@@ -51,4 +51,4 @@
 
 ---
 
-> *“Grandes coisas vêm do trabalho duro e perseverança. Sem desculpas..” – Kobe Bryant*
+> *“Grandes coisas vêm do trabalho duro e perseverança sem desculpas..” – Kobe Bryant*
