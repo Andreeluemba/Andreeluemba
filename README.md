@@ -48,7 +48,7 @@
 
 - 📧 **Email:** [andresavio701@gmail.com](mailto:andresavio701@gmail.com)  
 - 💼 **GitHub:** [Andreeluemba]([https://github.com/Andreeluemba])  
-- 🐙 **Instagram:** [luemba.dev]((https://www.instagram.com/luemba.dev/))  
+- 🐙 **Instagram:** [luemba.dev](https://www.instagram.com/)  
 
 ---
 
