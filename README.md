@@ -18,6 +18,7 @@
 | CSS        | ![65%](https://img.shields.io/badge/-65%25-blue) |
 | PHP        | ![80%](https://img.shields.io/badge/-80%25-blue) 
 | Node.JS | ![48%](https://img.shields.io/badge/-48%25-lightgrey) |
+| Typescript       | ![80%](https://img.shields.io/badge/-80%25-orange) |
 
 ---
 
