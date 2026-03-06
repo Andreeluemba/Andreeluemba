@@ -13,12 +13,11 @@
 | Tecnologia | Conhecimento |
 |------------|--------------|
 | C#         | ![65%](https://img.shields.io/badge/-65%25-blueviolet) |
-| JavaScript | ![70%](https://img.shields.io/badge/-70%25-yellow) |
-| HTML       | ![90%](https://img.shields.io/badge/-90%25-orange) |
+| JavaScript | ![70%](https://img.shields.io/badge/-50%25-yellow) |
+| HTML       | ![80%](https://img.shields.io/badge/-90%25-orange) |
 | CSS        | ![65%](https://img.shields.io/badge/-65%25-blue) |
-| PHP        | ![80%](https://img.shields.io/badge/-80%25-blue) 
-| Node.JS | ![48%](https://img.shields.io/badge/-48%25-lightgrey) |
-| Typescript       | ![80%](https://img.shields.io/badge/-80%25-orange) |
+| PHP        | ![80%](https://img.shields.io/badge/-80%25-blue) |
+| Typescript       | ![50%](https://img.shields.io/badge/-80%25-orange) |
 
 ---
 
@@ -48,7 +47,8 @@
 
 - 📧 **Email:** [andresavio701@gmail.com](mailto:andresavio701@gmail.com)  
 - 💼 **GitHub:** [Andreeluemba]([https://github.com/Andreeluemba])  
-- 🐙 **Instagram:** [luemba.dev](https://www.instagram.com/)  
+- 🐙 **Instagram:** [luemba.dev](https://www.instagram.com/)
+- 
 
 ---
 
