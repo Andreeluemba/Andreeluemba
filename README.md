@@ -19,16 +19,6 @@
 
 ---
 
-# 📌 Projetos
-
-| Nome do Projeto | Descrição | Link |
-|-----------------|-----------|------|
-| **Lista de Tarefas**        | Lista de tarefas báscica feita com React + TypeScript + Tailwindcss | [Ver no GitHub](https://github.com/Andreeluemba/lista-de-tarefas) |
-| **Contador**   | Contador feito com React + TypeScript +Tailwindcss | [Ver no GitHub](https://github.com/Andreeluemba/contador) |
-| **Task-Master** | Task Master completo | [Ver no GitHub](https://github.com/Andreeluemba/taskmaster) |
-| **Mini-Portflolio**    | Site básico de portoflolio | [Ver no GitHub](https://github.com/Andreeluemba/Andreluemba) |
-
----
 
 # 📬 Contato
 
