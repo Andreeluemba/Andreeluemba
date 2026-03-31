@@ -8,19 +8,6 @@
 
 ---
 
-# 🚀 Tecnologias que eu uso
-
-| Tecnologia | Conhecimento |
-|------------|--------------|
-| C#         | ![65%](https://img.shields.io/badge/-65%25-blueviolet) |
-| JavaScript | ![70%](https://img.shields.io/badge/-50%25-yellow) |
-| HTML       | ![80%](https://img.shields.io/badge/-90%25-orange) |
-| CSS        | ![65%](https://img.shields.io/badge/-65%25-blue) |
-| PHP        | ![80%](https://img.shields.io/badge/-80%25-blue) |
-| Typescript       | ![50%](https://img.shields.io/badge/-80%25-orange) |
-
----
-
 # 🤝 Habilidades interpessoais
 
 - Resolução criativa de problemas  
