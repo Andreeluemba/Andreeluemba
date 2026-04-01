@@ -22,8 +22,7 @@
 
 # 📬 Contato
 
-- 📧 **Email:** [andresavio701@gmail.com](mailto:andresavio701@gmail.com)  
-- 💼 **GitHub:** [Andreeluemba]([https://github.com/Andreeluemba])  
+- 📧 **Email:** [andresavio701@gmail.com](mailto:andresavio701@gmail.com)
 - 🐙 **Instagram:** [luemba.dev](https://www.instagram.com/)
 - 
 
