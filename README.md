@@ -38,7 +38,7 @@ React
 Node.js (learning)  
 
 **Databases:**  
-MySQL (learning)  
+MySQL   
 
 **Other:**  
 Git & GitHub • Software Development Fundamentals • Problem Solving • Algorithms
